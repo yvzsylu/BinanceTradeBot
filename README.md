@@ -37,15 +37,15 @@ Start the web service by running the following command:
 python app.py
 ```
 
-## Webhook configuration is required. You can use platforms such as:
+Webhook configuration is required. You can use platforms such as:
 
 Discord
 Slack
 GitHub
 Any custom HTTP service
 
-## Add your Binance API key and Telegram bot API key to the appropriate places in the project.
-## Note: You need to set up api key settings from Binance.
+Add your Binance API key and Telegram bot API key to the appropriate places in the project.
+Note: You need to set up api key settings from Binance.
 
 
 ## Webhook JSON Example
