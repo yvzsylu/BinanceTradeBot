@@ -16,7 +16,8 @@ This project is a web service written in Python. It is created using Flask. The 
 1. Clone the project:
 
 ```bash
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/yvzsylu/BinanceTradeBot
+```
 
 Install the required Python packages:
 
