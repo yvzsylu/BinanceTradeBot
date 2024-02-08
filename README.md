@@ -21,15 +21,21 @@ git clone https://github.com/yvzsylu/BinanceTradeBot
 
 Install the required Python packages:
 
+```bash
 pip install -r requirements.txt
+```
 
 Navigate to the project directory:
 
+```bash
 cd your_project
+```
 
 Start the web service by running the following command:
 
+```bash
 python app.py
+```
 
 Webhook configuration is required. You can use platforms such as:
 
@@ -44,6 +50,7 @@ Note: You need to set up api key settings from Binance.
 
 Webhook JSON Example
 
+```json
 {
     "symbol": "SOLUSDT.P",
     "sl": "0",
@@ -55,5 +62,6 @@ Webhook JSON Example
     "stopPrice": "22.592",
     "orderPrice": "22.882"
 }
+```
 
 
